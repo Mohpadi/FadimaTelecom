@@ -1,0 +1,9 @@
+2024-12-29 08:00:31,211 - 
+    Error 263 for command:
+        open sonneries/son1.mp3
+    Le périphérique spécifié n’est pas ouvert ou n’est pas reconnu par MCI.
+2024-12-29 08:00:31,212 - 
+    Error 263 for command:
+        close sonneries/son1.mp3
+    Le périphérique spécifié n’est pas ouvert ou n’est pas reconnu par MCI.
+2024-12-29 08:00:31,212 - Failed to close the file: sonneries/son1.mp3

@@ -1,0 +1,21 @@
+{
+    "7000000": {
+        "nom": "client1",
+        "pin": "0000",
+        "credit": 1805.247619047619,
+        "repertoire": {
+            "c1": {
+                "numeros": [
+                    "7000001"
+                ],
+                "bloque": false
+            }
+        }
+    },
+    "7000001": {
+        "nom": "client2",
+        "pin": "0000",
+        "credit": 0,
+        "repertoire": {}
+    }
+}

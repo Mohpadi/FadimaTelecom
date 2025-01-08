@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "emetteur": "7000000",
+        "recepteur": "7000001",
+        "duree": 9,
+        "date": "2025-01-08 22:53:54",
+        "vocal": "vocales\\vocal_7000000_7000001.wav",
+        "vocal_lu": false
+    }
+]

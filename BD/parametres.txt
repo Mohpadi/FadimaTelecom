@@ -1,0 +1,2 @@
+tarif_meme_operateur=10
+tarif_diff_operateur=20
